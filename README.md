@@ -1,7 +1,7 @@
-hexo-theme-yilia
+hexo-theme-yelog
 ================
 3-hexo 是为[hexo](https://github.com/tommy351/hexo)制作的主题。  
-demo:[叶落阁](http://yelog.org/)  
+demo: http://glody.net/  
 ——————————————  
 **关于主题：**
 
@@ -11,7 +11,7 @@ demo:[叶落阁](http://yelog.org/)
 
 ### 安装
 ```bash
-git clone https://github.com/yelog/3-hexo.git theme/3-hexo
+git clone https://github.com/glody/3-hexo.git theme/3-hexo
 ```
 >将hexo根目录的_config.yml中的修改两处  
 1. **theme** 改为 `3-hexo`   

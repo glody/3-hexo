@@ -4,12 +4,12 @@ favicon: /avatar.jpg
 
 #链接图标，链接为空则不显示
 link:
-  github: https://github.com/yelog
-  weibo: http://weibo.com/u/2307534817
+  github: https://github.com/glody
+  weibo: 
   twitter:
-  linkedin:
+  linkedin:glodyguo
   instagram:
-  mail: jaytp@qq.com
+  mail: glody.guo@gmail.com
 
 
 # Table of contents | 文章目录
