@@ -1,13 +1,13 @@
 # 你的头像url
-avatar: /avatar.jpg
-favicon: /avatar.jpg
+avatar: https://avatars3.githubusercontent.com/u/1768868?v=3&s=460
+favicon: https://avatars3.githubusercontent.com/u/1768868?v=3&s=460
 
 #链接图标，链接为空则不显示
 link:
   github: https://github.com/glody
   weibo: 
   twitter:
-  linkedin:glodyguo
+  linkedin: glodyguo
   instagram:
   mail: glody.guo@gmail.com
 
