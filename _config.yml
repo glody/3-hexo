@@ -1,31 +1,31 @@
 # 你的头像url
-avatar: /img/avatar.jpg
-favicon: /img/avatar.jpg
+avatar: https://avatars3.githubusercontent.com/u/1768868?v=3&s=460
+favicon: https://avatars3.githubusercontent.com/u/1768868?v=3&s=460
 
 #链接图标，链接为空则不显示
 link:
   rss: /atom.xml
-  github: https://github.com/yelog
-  facebook: https://www.facebook.com/faker.tops
+  github: https://github.com/glody
+  facebook: https://www.facebook.com/glodyguo
   twitter:
-  linkedin: https://www.linkedin.com/in/%E7%8E%89%E6%9D%B0-%E6%9D%A8-13a40a103/
+  linkedin: https://www.linkedin.com/in/glody/
   instagram:
-  reddit: https://www.reddit.com/user/yelog/
-  weibo: http://weibo.com/u/2307534817
-  email: jaytp@qq.com
+  reddit: 
+  weibo: 
+  email: glody.guo@gmail.com
 
 ##########多作者模式############
 author:
   on: false
   authors:
-    author1: 阿杰
-    author2: 小马哥
+    author1: 
+    author2: 
 ##############################
 
 # 文末声明
-article_txt: 转载请注明来源，欢迎对文章中的引用来源进行考证，欢迎指出任何有错误或不够清晰的表达。可以在下面评论区评论，也可以邮件至 jaytp@qq.com
+article_txt: 转载请注明来源，欢迎对文章中的引用来源进行考证，欢迎指出任何有错误或不够清晰的表达。可以在下面评论区评论，也可以邮件至 glody.guo@gmail.com
 
-bottom_text: ©2017 Yelog
+bottom_text: ©2017 Glody
 # 自定义页面最下方的站点版权信息
 # 如果不填，则自定义为 ©2017 author (这个author为hexo根目录_config.yml中配置的)
 
@@ -112,7 +112,7 @@ mathjax:
 
 # 友情链接
 friends:
-  叶落阁: http://yelog.org/
+  ZStack: http://zstack.io/
 
 ##########评论设置#############
 comment_count: true
@@ -125,7 +125,7 @@ preload_comment: false
 
 disqus:
   on: false
-  shortname: yelog
+  shortname: Glody
   # disqus评论系统， 2016年9月被GFW认证，大陆不能使用。
   # https://help.disqus.com/customer/en/portal/articles/466208-what-s-a-shortname-
 
@@ -138,11 +138,11 @@ gentie:
 
 gitalk:
   on: true
-  githubID: yelog
-  repo: yelog.github.io
-  ClientID: dc7f8ca729fea878e59c
+  githubID: Glody
+  repo: glody.github.io
+  ClientID: 
   ClientSecret: 67417ddbb12eeebb0de47187099e92ace7bdf90e
-  adminUser: yelog
+  adminUser: glody
   distractionFreeMode: true
   language: zh-CN
   perPage: 10
@@ -160,9 +160,9 @@ gitalk:
 
 gitment:
   on: false
-  owner: yelog
-  repo: yelog.github.io
-  client_id: d64ceca0d8a4e8a1f5c9
+  owner: Glody
+  repo: glody.github.io
+  client_id: 
   client_secret: fb17d5f0aba31372f61a03df707b320a39a73a06
   # gitment : 通过github issue实现的评论系统
   # 开源地址 : https://github.com/imsun/gitment
